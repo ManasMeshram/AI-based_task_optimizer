@@ -1,0 +1,28 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# Data folders
+data/full_dataset/       # Skip full dataset
+data/*.zip               # If you include zipped datasets, you can include them or ignore based on size
+
+# Model files (optional, if too large)
+models/*.h5
+models/*.pkl
+models/*.joblib
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
