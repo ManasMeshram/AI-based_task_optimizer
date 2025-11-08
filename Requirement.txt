@@ -7,14 +7,16 @@ pandas
 numpy
 *******************************************************
 
-
 Run your app.py via Streamlit,
-
 Load and use your AI/ML emotion models (text + image-based),
-
 Handle data processing and visualization,
-
 Keep future integration smooth.
+*******************************************************
+3 datasets need to be used 
+1st Text dataset           ///   already uploaded
+2nd Image dataset          ///   to big to be uploaded on github 
+3rd Voice/speech dataset   
+Datasets can be downloaded from kaggle
 
 *******************************************************
 # Core Framework
@@ -46,5 +48,6 @@ pyaudio==0.2.14
 
 # Misc
 requests==2.32.3
+
 
 ******************************
