@@ -107,8 +107,9 @@ This project is licensed under the **MIT License** — free for personal and com
 
 ## 🙌 **Acknowledgements**
 
-*  — Emotion classification models
-*  — Facial Expression Recognition
+*  Emotion Analysis Using Text — Emotion classification models
+*  Emotion Analysis Using Images — Facial Expression Recognition model
+*  
 * [📊 Streamlit](https://streamlit.io/) — Interactive web app framework
 
 ---
