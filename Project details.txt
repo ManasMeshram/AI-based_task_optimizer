@@ -1,0 +1,26 @@
+
+AI-based_task_optimizer
+🤖 Amdox: AI-Powered Task Optimizer
+Real-time emotion detection and mood-based task recommendations A prototype designed to enhance productivity and well-being by monitoring employee emotions through text and webcam inputs, then suggesting tasks that align with their emotional state.
+
+🚀 Overview
+Amdox leverages AI-powered emotion recognition to help teams and individuals stay balanced and productive. It detects emotions from text, webcam, or manual selection, then provides personalized task recommendations and mood analytics — all while maintaining user privacy.
+
+
+**************************************************************************************************************
+
+app.py is a prototype working fully
+and 
+app1.py is the streamlit model which will be using 3 ML models
+
+1. Emotion Analysis Using Text
+2. Emotion Analysis Using Images
+3. Emotion Analysis Using Speech
+
+Two models text and image have already been created 
+
+For different systems different streamlit command need to be created
+and the model integration needs to be done
+
+also create a virtual environment separately
+

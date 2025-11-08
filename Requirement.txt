@@ -1,0 +1,50 @@
+streamlit
+transformers
+torch
+fer
+opencv-python
+pandas
+numpy
+*******************************************************
+
+
+Run your app.py via Streamlit,
+
+Load and use your AI/ML emotion models (text + image-based),
+
+Handle data processing and visualization,
+
+Keep future integration smooth.
+
+*******************************************************
+# Core Framework
+streamlit==1.38.0
+
+# Machine Learning / AI
+transformers==4.44.2
+torch==2.4.1
+scikit-learn==1.5.2
+
+# Facial Emotion Recognition
+fer==22.5.1
+opencv-python==4.10.0.84
+
+# Data Handling & Utilities
+pandas==2.2.3
+numpy==1.26.4
+
+# Text Processing / NLP
+nltk==3.9.1
+
+# Visualization (optional for analytics dashboard)
+plotly==5.24.1
+matplotlib==3.9.2
+
+# Audio / Speech (for future voice-based detection)
+SpeechRecognition==3.10.4
+pyaudio==0.2.14
+
+# Misc
+requests==2.32.3
+
+******************************
